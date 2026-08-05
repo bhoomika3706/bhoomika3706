@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bhoomika Shivani 👋</h1>
-<h3 align="center">Full-Stack Developer | UI/UX Enthusiast | Transitioning into Machine Learning</h3>
+<h3 align="center">Full-Stack Developer | UI/UX Designer | Exploring Fintech</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhoomika-shivani-66017b252/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
@@ -10,10 +10,10 @@
 
 ### About Me
 
-Third-year Computer Engineering student at Mumbai University, based in Navi Mumbai. I build full-stack web applications end to end — from UI design in Figma to deployment on containerized infrastructure — and I'm currently deepening into machine learning fundamentals.
+Third-year Computer Engineering student based in Navi Mumbai. I build full-stack web applications end to end, from UI design to deployment on containerized infrastructure. I'm currently deepening into machine learning fundamentals.
 
 - 🔭 Currently building projects around SDG-aligned software solutions
-- 🌱 Learning: Machine Learning, SQL, and DSA (prepping for GATE CS)
+- 🌱 Learning: Machine Learning, SQL, and DSA 
 - 💼 Recently completed an internship building and deploying a full Angular shopping cart app
 - 💬 Ask me about: Angular, Docker deployments, or FinTech UI/UX
 
