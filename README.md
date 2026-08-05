@@ -45,7 +45,7 @@ Web-based student management system with a CI pipeline for automated builds.
 Responsive personal portfolio website.
 `HTML` `CSS` `JavaScript`
 
-> More projects (RapidReach — Android SOS app, Smart Civic Issue Reporting System) coming to GitHub soon.
+> More projects (RapidReach - Android SOS app, Smart Civic Issue Reporting System) coming to GitHub soon.
 
 ---
 
