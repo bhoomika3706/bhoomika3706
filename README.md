@@ -98,6 +98,4 @@ Responsive personal portfolio site.
 
 <div align="center">
 
-bhooms3706@gmail.com
-
 </div>
